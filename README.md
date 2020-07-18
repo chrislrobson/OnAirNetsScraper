@@ -1,6 +1,10 @@
 # OnAirNetsScraper
 Desktop version of the website for extracting Netlogger data.
 
+The user of this sofwtare must be familiar with Python, PyQt5, and any of the
+software libraries used by OnAirNetsScraper.  If anything goes wrong, use PyCharm
+to help find the fix, aka, this software is provided as is.
+
 To install:
 1.  git clone https://github.com/chrislrobson/OnAirNetsScraper.git
 2.  cd OnAirNetsScraper
